@@ -1,8 +1,8 @@
 # web-scraping-repo<br><br>
 
 # Requirements<br>
-# Part 1: Scrape Titles and Preview Text from Mars News (40 points)<br>
-# Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). (10 points)<br><br>
+Part 1: Scrape Titles and Preview Text from Mars News (40 points)<br>
+Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). (10 points)<br><br>
 
 The titles and preview text of the news articles were scraped and extracted. (20 points)<br><br>
 
